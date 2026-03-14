@@ -1,0 +1,13 @@
+name: JULES.md
+description: Configuration file for Google Jules AI coding agent, providing project-specific
+  instructions, architecture context, and coding standards.
+url: ''
+tags:
+- AI Agents
+- Google Jules
+- Developer Workflow
+- AI Copilot
+created: '2025'
+modified: '2025'
+apis: []
+common: []
