@@ -8,9 +8,9 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - AI Agents
-  - Google Jules
-  - Developer Workflow
   - AI Copilot
+  - Developer Workflow
+  - Google Jules
 url: https://raw.githubusercontent.com/api-evangelist/jules-md/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
