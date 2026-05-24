@@ -42,6 +42,8 @@ common:
     url: https://jules.google.com/
   - type: Documentation
     url: https://jules.google.com/
+  - type: LLMsTxt
+    url: https://jules.google.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
