@@ -42,7 +42,7 @@ common:
     url: https://jules.google.com/
   - type: Documentation
     url: https://jules.google.com/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://jules.google.com/llms.txt
 maintainers:
   - FN: Kin Lane
