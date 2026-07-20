@@ -1,5 +1,6 @@
 aid: jules-md
 name: JULES.md
+kind: topic
 description: >-
   JULES.md is a configuration file format for the Google Jules AI coding
   agent, providing project-specific instructions, architecture context, and
