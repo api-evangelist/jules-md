@@ -27,6 +27,13 @@ tags:
   - Developer Workflow
   - Google Jules
   - Agent Configuration
+  - Coding Agents
+tags_raw:
+  - AI Agents
+  - AI Copilot
+  - Developer Workflow
+  - Google Jules
+  - Agent Configuration
   - Coding Agent
 url: https://raw.githubusercontent.com/api-evangelist/jules-md/refs/heads/main/apis.yml
 created: '2025-01-01'
@@ -41,6 +48,11 @@ apis:
       software development tasks across a repository.
     humanURL: https://jules.google.com/
     tags:
+      - Artificial Intelligence
+      - Coding Agents
+      - Google
+      - Agent Configuration
+    tags_raw:
       - AI
       - Coding Agent
       - Google
