@@ -38,7 +38,7 @@ tags:
   - Developer Workflow
   - Google Jules
   - Agent Configuration
-  - Coding Agents
+  - Coding Agent
 tags_raw:
   - AI Agents
   - AI Copilot
@@ -60,7 +60,7 @@ apis:
     humanURL: https://jules.google.com/
     tags:
       - Artificial Intelligence
-      - Coding Agents
+      - Coding Agent
       - Google
       - Agent Configuration
     tags_raw:
