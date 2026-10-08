@@ -74,6 +74,12 @@ apis:
       - type: Website
         url: https://jules.google.com/
 common:
+  - type: Plans
+    url: plans/jules-md-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/jules-md-rate-limits.yml
+  - type: FinOps
+    url: finops/jules-md-finops.yml
   - type: VulnerabilityDisclosure
     url: security/jules-md-vulnerability-disclosure.yml
   - type: DomainSecurity
