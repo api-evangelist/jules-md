@@ -6,6 +6,9 @@ artifacts:
   finops/jules-md-finops.yml:
     method: generated
     evidence: declared in the artifact
+  front-door-ai/2026-09-17.yml:
+    method: unknown
+    evidence: no authorship recorded
   llms/jules-md-llms-probe.yml:
     method: searched
     evidence: 'derive-llms-provenance.py: harvested'
